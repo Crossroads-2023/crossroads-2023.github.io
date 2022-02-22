@@ -1,5 +1,7 @@
 The CIMPA School _Crossroads of geometry, representation theory and higher structures_ will take place from March 13th to March 26th 2023 in Puerto Madryn, Argentina, at the campus of [Universidad Nacional de la Patagonia _San Juan Bosco_](http://www.unp.edu.ar). 
 
+![Image](1a.jpg)
+
 ### Confirmed lecturers
 
 1. [Federico Ardila](http://math.sfsu.edu/federico/) (San Francisco State Universty and Universidad de los Andes)
@@ -23,7 +25,7 @@ The CIMPA School _Crossroads of geometry, representation theory and higher struc
 - Sonia Trepode (Universidad Nacional de Mar del Plata)
 - Pablo Zadunaisky (Jacobs University in Bremen)
 
-##q# Scientific Committee
+### Scientific Committee
 
 - Bernhard Keller 
 - Bruno Vallette
