@@ -24,3 +24,10 @@ The CIMPA School _Crossroads of geometry, representation theory and higher struc
 - Hipolito Treffinger (IMJ-PRG)
 - Sonia Trepode (Universidad Nacional de Mar del Plata)
 - Pablo Zadunaisky (Jacobs University in Bremen)
+
+## Scientific Committee
+
+- Bernhard Keller 
+- Bruno Vallette
+- Andrea Solotar
+- Sarah Witherspoon
