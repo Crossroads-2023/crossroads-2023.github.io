@@ -33,6 +33,6 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 - Sarah Witherspoon
 
 ### Sponsors
-<img src="cimpa-logo.jpg" width="100" height="100"><img src="HU-logo.png" width="100" height="100">
+<img src="CIMPA-logo.png" width="100" height="100"><img src="HU-logo.png" width="100" height="100">
 
 
