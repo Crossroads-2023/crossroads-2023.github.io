@@ -2,7 +2,7 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 <img src="1a.jpg">
 
-### Confirmed lecturers
+### Lecturers
 
 1. [Federico Ardila](http://math.sfsu.edu/federico/) (San Francisco State Universty and Universidad de los Andes)
 2. [Karin Baur](https://imsc.uni-graz.at/baur/) (Universität Graz)
