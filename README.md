@@ -35,5 +35,7 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 ### Sponsors
 <img src="CIMPA-logo.png" width="100" height="100"><img src="HU-logo.png" width="100" height="100">
 
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> 
+<script> var x = document.getElementById("footer_wrap"); setTimeout(() => { x.remove(); }, 10); </script>
+
 
