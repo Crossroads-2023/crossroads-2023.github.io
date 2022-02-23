@@ -2,4 +2,5 @@ theme: jekyll-theme-slate
 title: "2023 CIMPA School"
 description: "Crossroads of geometry, representation theory and higher structures"
 baseurl: ""
-include: assets
+sass:
+  sass_dir: _sass
