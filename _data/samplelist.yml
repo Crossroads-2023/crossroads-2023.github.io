@@ -1,0 +1,17 @@
+docs_list_title: Sections
+docs:
+
+- title: About
+  url: about.html
+
+- title: Registration
+  url: register.html
+
+- title: Contact
+  url: contact.html
+
+- title: Schedule
+  url: schedule.html
+
+- title: Speakers
+  url: speakers.html
