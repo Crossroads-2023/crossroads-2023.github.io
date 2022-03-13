@@ -7,11 +7,37 @@ docs:
 - title: Speakers
   url: speakers.html
   docs: 
-  - title: Federico Ardila
+  
+  - title: F. Ardila
     url: ardila.html
-  - title: Karin Baur
+
+  - title: K. Baur
     url: baur.html 
-     
+
+  - title: K. Baur
+    url: baur.html   
+
+  - title: N. Idrissi
+    url: idrissi.html  
+
+  - title: D. Jordan
+    url: jordan.html  
+
+  - title: V. Lebed
+    url: lebed.html   
+
+  - title: N. Libedinsky
+    url: libedinsky.html 
+
+  - title: S. Scherotzke
+    url: scherotzke.html
+
+  - title: C. Stroppel
+    url: stroppel.html   
+
+  - title: L. Vendramin
+    url: vendramin.html   
+  
 - title: Registration
   url: register.html
 
