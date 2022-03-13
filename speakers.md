@@ -1,6 +1,11 @@
 ### Lecturers
 
 1. [Federico Ardila](http://math.sfsu.edu/federico/) (San Francisco State Universty and Universidad de los Andes)
+
+_Title_: Matroids, combinatorics, and geometry
+
+In recent years, the geometric roots of matroid theory have grown much deeper, bearing many new fruits. This lecture series will survey some recent successes. We will discuss three geometric models of matroids at the intersection of combinatorics, algebra, and geometry. Each has led to the development of intriguing combinatorics and to the solution of long-standing conjectures on graph and matroid inequalities.
+
 2. [Karin Baur](https://imsc.uni-graz.at/baur/) (Universität Graz)
 3. [Najib Idrissi](https://idrissi.eu) (Universite de Paris)
 4. [David Jordan](https://www.maths.ed.ac.uk/~djordan/) (University of Edinburgh)
