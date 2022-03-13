@@ -24,15 +24,15 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           <ul class="navigation">
             {% for item in site.data.samplelist.docs %}
-              <li class="nav_item">
+              <li>
                 <a href="{{ item.url }}">{{ item.title }}</a>
                 {% if item.docs %}
                   <ul class="subnavigation">
-                    <li class="subnav_item">
+                    <li>
                       <a href="{{ item.url }}">{{ item.title }}</a>
                     </li>
                     {% for subitem in item.docs %} 
-                      <li class="subnav_item">
+                      <li>
                         <a href="{{ subitem.url }}">{{ subitem.title }}</a>
                       </li>
                     {% endfor %}

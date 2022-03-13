@@ -284,23 +284,16 @@ Full-Width Styles
   margin-left: -3.5%;
   display: flex;
   list-style: none;
-}
-
-.nav_item {
-  padding-left: 0px;
-  display: flex;
-  list-style: none;
-  flex: auto;
-  border-right: 1px solid rgb(59, 52, 52);
+  flex-wrap: wrap;
 }
 
 /* Change the link color on hover */
-.nav_item a:hover {
+.navigation li a:hover {
   background-color: #555;
   color: white;
 }
 
-.nav_item a {
+.navigation li a {
   display: block;
   color: rgb(153, 153, 153);
   padding: 8px 16px;
@@ -316,7 +309,7 @@ Full-Width Styles
   z-index: 1;
 }
 
-.navigation .nav_item:hover .subnavigation {
+.navigation li:hover .subnavigation {
   display: block;
 }
 
