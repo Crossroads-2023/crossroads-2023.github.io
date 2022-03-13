@@ -6,7 +6,12 @@ docs:
 
 - title: Speakers
   url: speakers.html
-
+  docs: 
+  - title: Federico Ardila
+    url: ardila.html
+  - title: Karin Baur
+    url: baur.html 
+     
 - title: Registration
   url: register.html
 
