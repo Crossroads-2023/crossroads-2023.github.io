@@ -316,7 +316,7 @@ Full-Width Styles
   z-index: 1;
 }
 
-.navigation:hover .subnavigation {
+.navigation .nav_item:hover .subnavigation {
   display: block;
 }
 
