@@ -28,6 +28,9 @@
                 <a href="{{ item.url }}">{{ item.title }}</a>
                 {% if item.docs %}
                   <ul class="subnavigation">
+                    <li class="subnav_item">
+                      <a href="{{ item.url }}">{{ item.title }}</a>
+                    </li>
                     {% for subitem in item.docs %} 
                       <li class="subnav_item">
                         <a href="{{ subitem.url }}">{{ subitem.title }}</a>
