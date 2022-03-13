@@ -24,7 +24,12 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           <ul class="navigation">
             {% for item in site.data.samplelist.docs %}
-               <li class="nav_item"><a href="{{ item.url }}">{{ item.title }}</a></li>
+              <li class="nav_item">
+                <a href="{{ item.url }}">{{ item.title }}</a>
+                {% if item.docs %}
+                Hola Mundo 
+                {% endif %}
+              </li>
             {% endfor %}
          </ul>
           {% if site.show_downloads %}
