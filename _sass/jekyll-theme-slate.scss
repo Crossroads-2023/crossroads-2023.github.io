@@ -286,9 +286,24 @@ Full-Width Styles
 }
 
 .nav_item {
-  padding-left: 20px;
+  padding-left: 2%;
   display: flex;
   list-style: none;
+  flex: auto;
+  border-right: 1px solid rgb(59, 52, 52);
+}
+
+/* Change the link color on hover */
+.nav_item a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.nav_item a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
 }
 
 #forkme_banner {
