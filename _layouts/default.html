@@ -25,12 +25,13 @@
           <ul class="navigation">
             {% for item in site.data.samplelist.docs %}
               <li>
-                <a href="{{ item.url }}">{{ item.title }}</a>
+                {% if item.url %}
+                  <a href="{{ item.url }}">{{ item.title }}</a>
+                {% else %}
+                  {{ item.title }}
+                {% endif %}
                 {% if item.docs %}
                   <ul class="subnavigation">
-                    <li>
-                      <a href="{{ item.url }}">{{ item.title }}</a>
-                    </li>
                     {% for subitem in item.docs %} 
                       <li>
                         <a href="{{ subitem.url }}">{{ subitem.title }}</a>
