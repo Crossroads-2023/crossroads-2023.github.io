@@ -281,12 +281,13 @@ Full-Width Styles
 }
 
 .navigation {
+  margin-left: -5%;
   display: flex;
   list-style: none;
 }
 
 .nav_item {
-  padding-left: 2%;
+  padding-left: 0px;
   display: flex;
   list-style: none;
   flex: auto;
