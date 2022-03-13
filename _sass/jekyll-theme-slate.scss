@@ -281,7 +281,13 @@ Full-Width Styles
 }
 
 .navigation {
- color:rgb(236, 13, 13)
+  display: flex;
+  list-style: none;
+}
+
+.nav_item {
+  display: flex;
+  list-style: none;
 }
 
 #forkme_banner {
