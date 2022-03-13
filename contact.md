@@ -1,3 +1,3 @@
 ### Contact us
 
-You can contact us [here](mailto:grephs.crossroads@gmail.com). 
+You can contact us [here](mailto:arg23.math@hu-berlin.de). 

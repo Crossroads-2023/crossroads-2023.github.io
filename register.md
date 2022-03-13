@@ -1,3 +1,3 @@
 ### Registration
 
-_Registration will open soon_.
+_Registration will open on June 2022_.
