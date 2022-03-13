@@ -1,0 +1,5 @@
+[Victoria Lebed](https://www.maths.tcd.ie/~lebed/) (Université de Caen)
+_Origamics: the Mathematics of Origami_. Origami is a natural tool for making geometry classes fun and memorable. We will discover and refresh on some mathematical concepts and theorems while folding and unfolding napkins, in the same exact way as it was done in some 1930s Japanese schools!
+On the other hand, origami is a fascinating object of mathematical research. Thus, we will learn how to divide any angle into three equal parts by paper folding (which is impossible using the traditional 
+ruler and compass!). Next, armed with some more square pieces of paper, we will attack the _Bigger Dollar Problem_, suggested by 19 year old 
+Vladimir Arnold, who would later become one of the most eminent 20th century mathematicians.
