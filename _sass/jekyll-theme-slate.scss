@@ -307,6 +307,19 @@ Full-Width Styles
   text-decoration: none;
 }
 
+.subnavigation {
+  display: none;
+  position: absolute;
+  padding: 0;
+  list-style: none;
+  background-color: #373737;
+  z-index: 1;
+}
+
+.navigation:hover .subnavigation {
+  display: block;
+}
+
 #forkme_banner {
   display: block;
   position: absolute;
