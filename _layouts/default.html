@@ -27,7 +27,13 @@
               <li class="nav_item">
                 <a href="{{ item.url }}">{{ item.title }}</a>
                 {% if item.docs %}
-                Hola Mundo 
+                  <ul class="subnavigation">
+                    {% for subitem in item.docs %} 
+                      <li class="subnav_item">
+                        <a href="{{ subitem.url }}">{{ subitem.title }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
                 {% endif %}
               </li>
             {% endfor %}
