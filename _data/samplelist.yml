@@ -10,6 +10,9 @@ docs:
 - title: Registration
   url: register.html
 
+- title: Organizers
+  url: organization.html
+
 - title: Schedule
   url: schedule.html
 
