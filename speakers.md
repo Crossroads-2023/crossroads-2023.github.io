@@ -5,10 +5,10 @@
     </div>
     <div class="bio">    
         <p>
-            <a href="http://math.sfsu.edu/federico/">Federico Ardila</a> (San Francisco State Universty and Universidad de los Andes) <em>Matroids, combinatorics, and geometry.</em> In recent years, the geometric roots of matroid theory have grown much deeper, bearing many new fruits. This lecture series will survey some recent successes. We will discuss three geometric models of matroids at the intersection of combinatorics, algebra, and geometry. Each has led to the development of intriguing combinatorics and to the solution of long-standing conjectures on graph and matroid inequalities. 
+            <a href="http://math.sfsu.edu/federico/">Federico Ardila</a> is a Colombian mathematician and DJ who researches combinatorics and specializes in matroid theory. Ardila graduated from MIT with a B.Sc. in Mathematics in 1998 and obtained a Ph.D in 2003 under the supervision of Richard P. Stanley in the same institution. Ardila is currently a professor at the San Francisco State University and additionally holds an adjunct position at the University of Los Andes in Colombia. In addition to mathematics, Ardila enjoys making music and is a co-founder of the Oakland DJ collective La Pelanga.
         </p>   
         <p>  
-            <a href="ardila.html">View course details</a>.
+            <a href="ardila.html">View mini-course details.</a>
         </p>   
     </div>
 </div>
