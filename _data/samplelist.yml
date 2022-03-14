@@ -5,6 +5,7 @@ docs:
   url: index.html
 
 - title: Speakers
+  url: speakers.html
   docs: 
   - title: F. Ardila
     url: ardila.html
