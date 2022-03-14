@@ -20,7 +20,7 @@
     </div>
     <div class="bio">    
         <p>
-            <a href="https://idrissi.eu/">Najib Idrissi</a> is a maître de conférences at Université Paris Cité since 2018. He obtained his PhD in mathematics from the Université de Lille in 2017 under the direction of Benoit Fresse and worked as a postdoc at ETH Zurich in 2018 under Thomas Willwacher. He is mainly interested in operads, whether algebraic or topological, and their applications to the computation of invariants of manifolds and their configuration spaces through the theory of graph complexes. In 2020, he was awarded the Peccot [Lecture](https://idrissi.eu/research/peccot) and [Prize](https://www.college-de-france.fr/site/cours-peccot/guestlecturer-2020-03-04-11h00.htm) by the Collège de France and lectured on the real homotopy type of configuration spaces.
+            <a href="https://idrissi.eu/">Najib Idrissi</a> is a maître de conférences at Université Paris Cité since 2018. He obtained his PhD in mathematics from the Université de Lille in 2017 under the direction of Benoit Fresse and worked as a postdoc at ETH Zurich in 2018 under Thomas Willwacher. He is mainly interested in operads, whether algebraic or topological, and their applications to the computation of invariants of manifolds and their configuration spaces through the theory of graph complexes. In 2020, he was awarded the Peccot <a href="https://idrissi.eu/research/peccot">Lecture</a> and <a href="https://www.college-de-france.fr/site/cours-peccot/guestlecturer-2020-03-04-11h00.htm">Prize</a> by the Collège de France and lectured on the real homotopy type of configuration spaces.
         </p>   
         <p>  
             <a href="idrissi.html">View mini-course details.</a>
