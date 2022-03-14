@@ -1,8 +1,14 @@
 ### Speakers
+<div class="speaker">
+    <div class="photo">
+        <img src="placeholder.png"/>
+    </div>
+    <div class="bio">    
+    [Federico Ardila](http://math.sfsu.edu/federico/) (San Francisco State Universty and Universidad de los Andes)
+_Matroids, combinatorics, and geometry._ In recent years, the geometric roots of matroid theory have grown much deeper, bearing many new fruits. This lecture series will survey some recent successes. We will discuss three geometric models of matroids at the intersection of combinatorics, algebra, and geometry. Each has led to the development of intriguing combinatorics and to the solution of long-standing conjectures on graph and matroid inequalities.          
+    </div>
+</div>
 
-<img src="placeholder.png" class="placeholder"/>
-[Federico Ardila](http://math.sfsu.edu/federico/) (San Francisco State Universty and Universidad de los Andes)
-_Matroids, combinatorics, and geometry._ In recent years, the geometric roots of matroid theory have grown much deeper, bearing many new fruits. This lecture series will survey some recent successes. We will discuss three geometric models of matroids at the intersection of combinatorics, algebra, and geometry. Each has led to the development of intriguing combinatorics and to the solution of long-standing conjectures on graph and matroid inequalities.
 
 <img src="placeholder.png" class="placeholder"/>
 [Karin Baur](https://imsc.uni-graz.at/baur/) (Universität Graz)
