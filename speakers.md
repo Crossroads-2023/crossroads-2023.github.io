@@ -30,7 +30,7 @@
 
 <div class="speaker">
     <div class="photo">
-        <a href="vendramin.html"><img src="vendramin_photo.jpg"/></a>
+        <a href="vendramin.html"><img src="vendramin_photo.png"/></a>
     </div>
     <div class="bio">    
         <p>
