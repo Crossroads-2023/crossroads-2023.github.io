@@ -3,4 +3,4 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 [//]: # <img src="1a.jpg">
 
 ### Sponsors
-[<img src="CIMPA-logo.png" width="100" height="100">](https://www.cimpa.info)[<img src="HU-logo.png" width="100" height="100">](https://www.hu-berlin.de/en)
+[<img src="images/CIMPA-logo.png" width="100" height="100">](https://www.cimpa.info)[<img src="images/HU-logo.png" width="100" height="100">](https://www.hu-berlin.de/en)

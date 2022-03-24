@@ -2,7 +2,7 @@
 
 <div class="speaker">
     <div class="photo">
-        <a href="ardila.html"><img src="placeholder.png"/></a>
+        <a href="ardila.html"><img src="images/placeholder.png"/></a>
     </div>
     <div class="bio">    
         <p>
@@ -16,7 +16,7 @@
 
 <div class="speaker">
     <div class="photo">
-        <a href="idrissi.html"><img src="idrissi_photo.webp"/></a>
+        <a href="idrissi.html"><img src="images/idrissi_photo.webp"/></a>
     </div>
     <div class="bio">    
         <p>
@@ -30,7 +30,35 @@
 
 <div class="speaker">
     <div class="photo">
-        <a href="vendramin.html"><img src="vendramin_photo.png"/></a>
+        <a href="lebed.html"><img src="images/lebed_photo.png"/></a>
+    </div>
+    <div class="bio">    
+        <p>
+            <a href="https://www.maths.tcd.ie/~lebed/">Victoria Lebed</a>  finished her PhD in 2012 at Paris City University (formerly Paris 7). After postdocs at Osaka City University, University of Nantes, and Trinity College Dublin, she settled down at the University of Caen Normandy. Her interests revolve around the vast notions of structure and braiding, in particular their algebraic, homological, topological, and categorical aspects. This includes the Yang–Baxter equation, braid groups, knots and their generalisations, self-distributivity, shuffle algebras, Hopf algebras. She believes that most of mathematics can (and should!) be drawn. She is actively engaged in outreach activities. 
+        </p>   
+        <p>  
+            <a href="lebed.html">View mini-course details.</a>
+        </p>   
+    </div>
+</div>
+
+<div class="speaker">
+    <div class="photo">
+        <a href="libedinsky.html"><img src="images/libedinsky_photo.png"/></a>
+    </div>
+    <div class="bio">    
+        <p>
+            <a href="https://nicolaslibedinsky.cl/about-me/">Nicolás Libedinsky</a> is a Chilean mathematician. He studied in École Normale Supérieure in Paris and then completed his Ph.D. between Paris Diderot University and Oxford University in 2008. He had an Alexander von Humboldt postdoctoral position in Germany and is now a Professor at the Universidad de Chile. His main interest is (modular) representation theory. In 2019 he published a "mathematical novel" called <em>La unidad de todas las cosas</em>. 
+        </p>   
+        <p>  
+            <a href="libedinsky.html">View mini-course details.</a>
+        </p>   
+    </div>
+</div>
+
+<div class="speaker">
+    <div class="photo">
+        <a href="vendramin.html"><img src="images/vendramin_photo.png"/></a>
     </div>
     <div class="bio">    
         <p>

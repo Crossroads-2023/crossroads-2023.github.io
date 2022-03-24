@@ -15,3 +15,7 @@
 - [Andrea Solotar](http://mate.dm.uba.ar/~asolotar/) (Universidad de Buenos Aires)
 - [Bruno Vallette](https://www.math.univ-paris13.fr/~vallette/) (Université  Sorbonne Paris Nord)
 - [Sarah Witherspoon](https://www.math.tamu.edu/~sarah.witherspoon/) (Texas A&M)
+
+### Contact us
+
+Please contact us [here](mailto:arg23.math@hu-berlin.de).
