@@ -1,5 +1,4 @@
-### Speakers
-
+<h4>Matroids, combinatorics, and geometry</h4>
 <div class="speaker">
     <div class="photo">
         <a href="ardila.html"><img src="images/placeholder.png"/></a>
@@ -14,6 +13,7 @@
     </div>
 </div>
 
+<h4>Cluster algebras and cluster categories via surfaces</h4>
 <div class="speaker">
     <div class="photo">
         <a href="baur.html"><img src="images/baur_photo.png"/></a>
@@ -23,11 +23,12 @@
             <a href="http://www1.maths.leeds.ac.uk/~pmtkb/">Karin Baur </a> is a professor in Pure Mathematics at the University of Leeds. After obtaining her PhD in 2002 from the University of Basel in Switzerland she spent her post-doctoral years at ETH, at UCSD and at the University of Leicester before being an SNSF professor at ETH. She became a full professor at the University of Graz in 2011. Her research interests lie in algebraic, combinatorial and geometric methods in representation theory. <em>Photo by Severin Nowacki</em>.
         </p>   
         <p>  
-            <a href="idrissi.html">View mini-course details.</a>
+            <a href="baur.html">View mini-course details.</a>
         </p>   
     </div>
 </div>
 
+<h4>Configurations spaces, algebraic topology and operads</h4>
 <div class="speaker">
     <div class="photo">
         <a href="idrissi.html"><img src="images/idrissi_photo.webp"/></a>
@@ -42,6 +43,7 @@
     </div>
 </div>
 
+<h4>Origamics: the Mathematics of Origami</h4>
 <div class="speaker">
     <div class="photo">
         <a href="lebed.html"><img src="images/lebed_photo.png"/></a>
@@ -56,6 +58,7 @@
     </div>
 </div>
 
+<h4>Representation theory and categorification</h4>
 <div class="speaker">
     <div class="photo">
         <a href="libedinsky.html"><img src="images/libedinsky_photo.png"/></a>
@@ -70,6 +73,7 @@
     </div>
 </div>
 
+<h4>Computational algebra: groups, rings and combinatorics</h4>
 <div class="speaker">
     <div class="photo">
         <a href="vendramin.html"><img src="images/vendramin_photo.png"/></a>
