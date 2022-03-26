@@ -16,6 +16,20 @@
 
 <div class="speaker">
     <div class="photo">
+        <a href="baur.html"><img src="images/baur_photo.png"/></a>
+    </div>
+    <div class="bio">    
+        <p>
+            <a href="http://www1.maths.leeds.ac.uk/~pmtkb/">Karin Baur </a> is a professor in Pure Mathematics at the University of Leeds. After obtaining her PhD in 2002 from the University of Basel in Switzerland she spent her post-doctoral years at ETH, at UCSD and at the University of Leicester before being an SNSF professor at ETH. She became a full professor at the University of Graz in 2011. Her research interests lie in algebraic, combinatorial and geometric methods in representation theory. _Photo by Severin Nowacki_.
+        </p>   
+        <p>  
+            <a href="idrissi.html">View mini-course details.</a>
+        </p>   
+    </div>
+</div>
+
+<div class="speaker">
+    <div class="photo">
         <a href="idrissi.html"><img src="images/idrissi_photo.webp"/></a>
     </div>
     <div class="bio">    
