@@ -49,4 +49,6 @@ docs:
 - title: Contact
   url: contact.html
 
-
+- title: ES 
+# <img src="ar.svg" alt="Página en español">
+  url: https://crossroads-2023-es.github.io/
