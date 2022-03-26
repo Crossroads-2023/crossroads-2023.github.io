@@ -7,7 +7,7 @@
 - [Pedro Tamaroff](https://ptamarov.github.io/) (MPIMiS)
 - [Hipólito Treffinger](https://sites.google.com/view/hipolitotreffinger) (IMJ-PRG)
 - [Sonia Trepode](https://sites.google.com/view/sonia-trepode/home) (Universidad Nacional de Mar del Plata)
-- [Pablo Zadunaisky](http://mate.dm.uba.ar/~pzadub/) (Jacobs University in Bremen)
+- [Pablo Zadunaisky](http://mate.dm.uba.ar/~pzadub/) (Universidad de Buenos Aires)
 
 ### Scientific Committee
 
