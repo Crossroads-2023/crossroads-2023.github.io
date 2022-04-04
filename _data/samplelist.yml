@@ -4,8 +4,8 @@ docs:
 - title: Main
   url: index.html
 
-- title: Speakers
-  # url: speakers.html
+- title: Courses
+  url: speakers.html
   docs: 
   - title: F. Ardila
     url: ardila.html
