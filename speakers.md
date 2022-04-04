@@ -88,7 +88,7 @@
     </div>
 </div>
 
-<h4>Cotangent complexes of moduli spaces and Ginzburg differential graded algebras</h4>
+<h4>Cotangent complexes of moduli spaces and Ginzburg dg algebras</h4>
 <div class="speaker">
     <div class="photo">
         <a href="scherotzke.html"><img src="images/placeholder.png"/></a>
