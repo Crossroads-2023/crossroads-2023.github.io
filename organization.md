@@ -4,7 +4,7 @@
 - [María Julia Redondo](https://sites.gtiit.edu.cn/research/people/maria-julia-redondo/) (Universidad del Sur)
 - [Fiorela Rossi Bertone](https://sites.google.com/view/rossib/fiorela-rossi-bertone) (Universidad del Sur)
 - [Sibylle Schroll](https://sites.google.com/site/sibylleschroll/) (University of Cologne)
-- [Pedro Tamaroff](https://ptamarov.github.io/) (MPIMiS)
+- [Pedro Tamaroff](https://ptamarov.github.io/) (Humboldt-Universität zu Berlin)
 - [Hipólito Treffinger](https://sites.google.com/view/hipolitotreffinger) (IMJ-PRG)
 - [Sonia Trepode](https://sites.google.com/view/sonia-trepode/home) (Universidad Nacional de Mar del Plata)
 - [Pablo Zadunaisky](http://mate.dm.uba.ar/~pzadub/) (Universidad de Buenos Aires)
