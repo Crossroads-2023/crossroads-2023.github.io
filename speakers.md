@@ -46,11 +46,12 @@
 <h4>An introduction to geometric representation theory for quantum groups</h4>
 <div class="speaker">
     <div class="photo">
-        <a href="jordan.html"><img src="images/placeholder.png"/></a>
+        <a href="jordan.html"><img src="images/jordan_photo.jpeg"/></a>
     </div>
     <div class="bio">    
         <p>
-            This course will be taught by <a href="https://www.maths.ed.ac.uk/~djordan/">David Jordan</a>.
+            <a href="https://www.maths.ed.ac.uk/~djordan/">David Jordan</a>
+            is a Reader in the Hodge Institute at the University of Edinburgh School of Mathematics.  He received his PhD from MIT in 2011, followed by an NSF postdoctoral research fellowship at the University of Texas before joining the University of Edinburgh as a Chancellor’s fellow in 2013.  In 2015 he was awarded an ERC Starting Grant to study the <a href="https://cordis.europa.eu/project/id/637618">quantum geometric Langlands topological field theory</a>.  His work centers on quantum topology of 2-, 3-, and 4-dimensional manifolds, combining tools from higher algebra, representation theory of quantum groups, and elements of skein theory.  With his collaborators he has developed the mathematical foundation for the Betti quantum geometric Langlands TFT, a model for the Kapustin–Witten twist of N=4 SUSY Yang-Mills gauge theory.
         </p>   
         <p>  
             <a href="jordan.html">View mini-course details.</a>
