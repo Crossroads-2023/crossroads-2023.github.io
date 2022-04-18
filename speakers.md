@@ -92,11 +92,12 @@
 <h4>Cotangent complexes of moduli spaces and Ginzburg dg algebras</h4>
 <div class="speaker">
     <div class="photo">
-        <a href="scherotzke.html"><img src="images/placeholder.png"/></a>
+        <a href="scherotzke.html"><img src="images/scherotzke_photo.png"/></a>
     </div>
     <div class="bio">    
         <p>
-            This course will be taught by <a href="https://wwwde.uni.lu/research/fstm/dmath/people/sarah_scherotzke">Sarah Scherotzke</a>.
+            <a href="https://wwwde.uni.lu/research/fstm/dmath/people/sarah_scherotzke">Sarah Scherotzke</a>
+            did her PhD at the University of Oxford in 2009. After postdoctoral positions in Paris and Bonn, she became professor at the University of Münster and is now professor at the University of Luxembourg. During her PhD, she worked on various topics in representation theory, during her postdoc on cluster theory and she is now working in the field of derived algebraic geometry. Derived geometry gives us a way to keep doing geometry when things go wrong for instance in non-transversal settings. It is a beautiful and quickly developing area of maths, with connections to lots of other fields of mathematics. In her free time, Sarah likes to hike, swim and dance. 
         </p>   
         <p>  
             <a href="scherotzke.html">View mini-course details.</a>
