@@ -1,11 +1,13 @@
 <h4>Matroids, combinatorics, and geometry</h4>
 <div class="speaker">
     <div class="photo">
-        <a href="ardila.html"><img src="images/placeholder.png"/></a>
+        <a href="ardila.html"><img src="images/ardila_photo.png"/></a>
     </div>
     <div class="bio">    
         <p>
-            This course will be taught by <a href="http://math.sfsu.edu/federico/">Federico Ardila</a>.
+            <a href="http://math.sfsu.edu/federico/">Federico Ardila</a> is a Colombian mathematician and musician interested in the intersection between combinatorics, geometry, and algebra. He received his PhD from MIT and is a professor at San Francisco State University and Universidad de Los Andes. He is a Guest Lecturer at the International Congress of Mathematicians 2022, a Fellow of the American Math Society, and a recipient of the Math Association of America's Teaching Award. He has directed the graduate theses of more than 50 students and co-directs MSRI-UP, a research program for ethnic minority students in the United States. In all aspects of his work, Federico seeks to contribute to building an increasingly inclusive and equitable mathematical community. <em>Photo by May-Li Khoe)</em>
+
+Translated with www.DeepL.com/Translator (free version)
         </p>   
         <p>  
             <a href="ardila.html">View mini-course details.</a>
