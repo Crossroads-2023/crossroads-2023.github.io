@@ -2,7 +2,7 @@
 
 The application process to the school is now open. Deadline for applications (with or without funding) is November 30th 2022. Priority will be given to applications submitted before this deadline.
 
-1. Please register using the form available here, and read below for details on funding support. 
+1. Please register using the form available [here](https://docs.google.com/forms/d/e/1FAIpQLSeR5r20V8rkBqHPn-UCq84lHLKLs95B_ectIom3mQth-QqxaQ/viewform), and read below for details on funding support. 
 
 2.  Applicants must send an email to arg23.math@hu-berlin.de with a short curriculum vitae. The subject of the email should be “CV NAME SURNAME”.
 
