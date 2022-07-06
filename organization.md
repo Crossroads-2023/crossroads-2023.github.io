@@ -18,4 +18,4 @@
 
 ### Contact us
 
-Please contact us [here](mailto:arg23.math@hu-berlin.de).
+Please contact us [here](mailto:arg23.math@hu-berlin.de). 
