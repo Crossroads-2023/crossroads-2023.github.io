@@ -2,11 +2,11 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### News
 
-Registration is now open! Please go to the [registration](https://crossroads-2023.github.io/register.html) tab for details. More information on the courses is coming soon.
+Registration is now open! Please go to the [registration](https://crossroads-2023.github.io/register.html) tab for details. 
 
 ### Poster
 
-You can download a high quality version of the school's poster at [this link](CIMPA23poster.pdf), which you can print if you would like to. 
+You can download (and print) a high quality version of the school's poster at [this link](CIMPA23poster.pdf).
 
 
 ### Sponsors
