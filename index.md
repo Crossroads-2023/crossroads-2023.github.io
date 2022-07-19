@@ -6,7 +6,7 @@ Registration is now open! Please go to the [registration](https://crossroads-202
 
 ### Poster
 
-You can download (and print) a high quality version of the school's poster at [this link](CIMPA23posterv3.pdf).
+You can download (and print) a high quality version of the school's poster at [this link](CIMPA23poster.pdf).
 
 
 ### Sponsors
