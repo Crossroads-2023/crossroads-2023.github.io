@@ -2,7 +2,7 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### News
 
-Registration is now open! Please go to the [registration](https://crossroads-2023.github.io/register.html) tab for details. 
+Registration is now open! Please go to the [registration](https://crossroads-2023.github.io/register.html) tab for details. CIMPA registration is now also open. Please go to [this link](https://www.cimpa.info/en/node/40) for more information.
 
 ### Poster
 
