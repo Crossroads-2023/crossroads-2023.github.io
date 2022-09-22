@@ -10,4 +10,7 @@ You can download (and print) a high quality version of the school's poster at [t
 
 
 ### Sponsors
-[<img src="images/CIMPA-logo.png" width="100" height="100">](https://www.cimpa.info)[<img src="images/HU-logo.png" width="100" height="100">](https://www.hu-berlin.de/en)
+
+[<img src="images/CIMPA-logo.png" width="100" height="100">](https://www.cimpa.info)
+[<img src="images/HU-logo.png" width="100" height="100">](https://www.hu-berlin.de/en)
+[<img src="images/compositiologo.png" width="100" height="100">](https://compositio.nl/#foundation)
