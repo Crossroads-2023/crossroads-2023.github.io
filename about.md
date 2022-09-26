@@ -13,7 +13,7 @@ To get from Aeroparque to Puerto Madryn, there are at least two options:
 
 2. Go to [_Aeropuerto Almirante Marcos A. Zar_](https://www.aeropuertotrelew.com/en/index.php), about 60 km away from Puerto Madryn near the city of Trelew. 
 
-The second option has a higher flight frequency and is preffered by tourists, since flights into Puerto Madryn are restricted as a result of environmental concerns. The 50km distance difference can be made up for by using the [door-to-door shuttle service to Puerto Madryn](https://transferpmy.com/).
+The second option has a higher flight frequency and is preferred by tourists, since flights into Puerto Madryn are restricted as a result of environmental concerns. The 50km distance difference can be made up for by using the [door-to-door shuttle service to Puerto Madryn](https://transferpmy.com/).
 
 <p align=center><em>More information coming soon!</em></p>
 
@@ -25,5 +25,5 @@ the [_Valdés peninsula_](https://en.wikipedia.org/wiki/Valdes_Peninsula), decla
 
 
 <p align="center">
-<img src="images/1a.jpg" height=250>
+<img src="images/1a.jpg">
 </p>
