@@ -1,5 +1,29 @@
+### Information about airports and local shuttles
+
+The main __international__ airport is the _Aeropuerto Internacional de Ezeiza_ (known 
+as _Ezeiza_). Official
+information about this airport is available [here](https://www.aa2000.com.ar/ezeiza),
+unofficial but otherwise useful information in English is available [here](https://www.buenos-aires-airport.com/ezeiza/) and [here](https://aeropuertoezeiza.net/en).
+
+The main airport for local flights out of Buenos Aires is the _Aeroparque Metropolitano Jorge Newbery_ (known as _Aeroparque_). There is a 45 minutes express bus service offered by [_Manuel Tienda León_](https://www.tiendaleon.com/) with a frequency of 30 minutes that connects the Ezeiza airport with the Puerto Madero terminal in the city center and also with the Aeroparque airport for domestic flights.  
+
+To get from Aeroparque to Puerto Madryn, there are at least two options:
+
+1. Go to _Aeropuerto Tehuelche_, about 10 km away from Puerto Madryn.
+
+2. Go to [_Aeropuerto Almirante Marcos A. Zar_](https://www.aeropuertotrelew.com/en/index.php), about 60 km away from Puerto Madryn near the city of Trelew. 
+
+The second option has a higher flight frequency and is preffered by tourists, since flights into Puerto Madryn are restricted as a result of environmental concerns. The 50km distance difference can be made up for by using the [door-to-door shuttle service to Puerto Madryn](https://transferpmy.com/).
+
+<p align=center><em>More information coming soon!</em></p>
+
 ### About Puerto Madryn
 
-So much to discover.
+[Puerto Madryn](https://en.wikipedia.org/wiki/Puerto_Madryn) is located in the northeast of the Chubut province in Argentina,
+facing the Argentine sea and the Atlantic Ocean. It is a few kilometers away from
+the [_Valdés peninsula_](https://en.wikipedia.org/wiki/Valdes_Peninsula), declared World Heritage Site by UNESCO in 1999. More information is available [here](https://www.tripadvisor.com/Tourism-g312832-Puerto_Madryn_Province_of_Chubut_Patagonia-Vacations.html).
 
-<img src="images/1a.jpg">
+
+<p align="center">
+<img src="images/1a.jpg" height=250>
+</p>
