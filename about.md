@@ -21,7 +21,7 @@ The second option has a higher flight frequency and is preffered by tourists, si
 
 [Puerto Madryn](https://en.wikipedia.org/wiki/Puerto_Madryn) is located in the northeast of the Chubut province in Argentina,
 facing the Argentine sea and the Atlantic Ocean. It is a few kilometers away from
-the [_Valdés peninsula_](https://en.wikipedia.org/wiki/Valdes_Peninsula), declared World Heritage Site by UNESCO in 1999. More information is available [here](https://www.tripadvisor.com/Tourism-g312832-Puerto_Madryn_Province_of_Chubut_Patagonia-Vacations.html).
+the [_Valdés peninsula_](https://en.wikipedia.org/wiki/Valdes_Peninsula), declared World Heritage Site by UNESCO in 1999. You can find official information, including maps and useful .pdf files [here](https://madryn.travel/en/), and as usual get information from [Trip Advisor](https://www.tripadvisor.com/Tourism-g312832-Puerto_Madryn_Province_of_Chubut_Patagonia-Vacations.html).
 
 
 <p align="center">
