@@ -13,4 +13,6 @@ You can download (and print) a high quality version of the school's poster at [t
 
 [<img src="images/CIMPA-logo.png" width="100" height="100">](https://www.cimpa.info)
 [<img src="images/HU-logo.png" width="100" height="100">](https://www.hu-berlin.de/en)&nbsp;&nbsp;&nbsp;
-[<img src="images/compositiologo.png" width="100" height="100">](https://compositio.nl/#foundation)
+[<img src="images/compositiologo.png" width="100" height="100">](https://compositio.nl/#foundation)&nbsp;&nbsp;&nbsp;
+[<img src="images/conicet.png" width="100" height="57">](https://www.conicet.gov.ar/conicet-descripcion/) 
+[<img src="images/IMU-CDC.png" width="100" height="100">](https://www.mathunion.org/cdc)
