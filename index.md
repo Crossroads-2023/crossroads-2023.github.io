@@ -14,8 +14,10 @@ You can download (and print) a high quality version of the school's poster at [t
 We gratefully acknowledge support from the following sponsors. We are supported by a grant from the IMU-CDC [_Conference Support Program_](https://www.mathunion.org/cdc/grants/conference-support-program), which is partially supported by the [Abel Board](https://abelprize.no/node/154).
 
 
-[<img src="images/CIMPA-logo.png" width="100" height="100">](https://www.cimpa.info)
-[<img src="images/HU-logo.png" width="100" height="100">](https://www.hu-berlin.de/en)&nbsp;&nbsp;&nbsp;
-[<img src="images/compositiologo.png" width="100" height="100">](https://compositio.nl/#foundation)&nbsp;&nbsp;&nbsp;
-[<img src="images/conicet.png" width="100" height="57">](https://www.conicet.gov.ar/conicet-descripcion/) 
-[<img src="images/IMU-CDC.png" width="100" height="100">](https://www.mathunion.org/cdc)
+<div style="text-align: center;">
+<a href="https://www.cimpa.info"><img src="images/CIMPA-logo.png" width="100" height="100"></a>
+<a href="https://www.hu-berlin.de/en"><img src="images/HU-logo.png" width="100" height="100"> &nbsp;&nbsp;&nbsp;
+<a href="https://compositio.nl/#foundation"><img src="images/compositiologo.png" width="100" height="100"> &nbsp;&nbsp;&nbsp;
+<a href="https://www.conicet.gov.ar/conicet-descripcion/"><img src="images/conicet.png" width="100" height="57">  
+<a href="https://www.mathunion.org/cdc"><img src="images/IMU-CDC.png" width="100" height="100"> 
+</div>
