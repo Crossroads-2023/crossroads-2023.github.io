@@ -1,6 +1,6 @@
 ### Registration
 
-__Registration is now closed__.
+_Registration is now closed_.
 
 ### Contact us
 
