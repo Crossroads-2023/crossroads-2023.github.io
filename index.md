@@ -11,7 +11,8 @@ You can download (and print) a high quality version of the school's poster at [t
 
 ### Sponsors
 
-We gratefully acknowledge support from the following sponsors. We are supported by a grant from the IMU-CDC [_Conference Support Program_](https://www.mathunion.org/cdc/grants/conference-support-program), which is partially supported by the [Abel Board](https://abelprize.no/node/154).
+We gratefully acknowledge support from the following sponsors. We are supported by a grant from the IMU-CDC [_Conference Support Program_](https://www.mathunion.org/cdc/grants/conference-support-program), which is partially supported by the [Abel Board](https://abelprize.no/node/154). We also acknowledge support from an NSF grant of [Julia Pevtsova](https://sites.math.washington.edu/~julia/) and [Ralf Schiffler](https://schiffler.math.uconn.edu/).
+
 
 
 [<img src="images/CIMPA-logo.png" width="100" height="100">](https://www.cimpa.info)
@@ -19,3 +20,4 @@ We gratefully acknowledge support from the following sponsors. We are supported 
 [<img src="images/compositiologo.png" width="100" height="100">](https://compositio.nl/#foundation)&nbsp;&nbsp;&nbsp;
 [<img src="images/conicet.png" width="100" height="57">](https://www.conicet.gov.ar/conicet-descripcion/) 
 [<img src="images/IMU-CDC.png" width="100" height="100">](https://www.mathunion.org/cdc)
+[<img src="images/NSF.svg" width="100" height="100">](https://www.nsf.gov/)
