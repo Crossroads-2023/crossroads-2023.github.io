@@ -1,10 +1,14 @@
 ### Where will the event take place?
 
-The even will take place in Puerto Madryn, Argentina, at the campus of [Universidad Nacional de la Patagonia _San Juan Bosco_](https://madryn.unp.edu.ar/), located at [Bv. Almte Brown 3051, U9120 Puerto Madryn, Chubut, Argentina](https://goo.gl/maps/cyTsYQmtWefDwCAB8). Due to the way flight traffic
-is organized in the country, if you are arriving from Europe or North America, it is likely that
-will have to first get to the city of Buenos Aires through the *Ezeiza* airport, and then take a 
-short flight south, to Puerto Madryn, from the *Aeroparque* airport. Please continue reading below 
-for more details.
+The even will take place in Puerto Madryn, Argentina, at the campus of 
+[Universidad Nacional de la Patagonia _San Juan Bosco_](https://madryn.unp.edu.ar/), 
+located at [Bv. Almte Brown 3051, U9120 Puerto Madryn, Chubut, Argentina](https://goo.gl/maps/cyTsYQmtWefDwCAB8).
+
+Due to the way air traffic is organized in the country, if you are arriving 
+from abroad, for example from Europe or North America, you will have to first 
+get to the city of Buenos Aires through the *Ezeiza* airport, and then take a 
+short flight south, to Puerto Madryn, from the *Aeroparque* airport. Please 
+continue reading below for more details.
 
 
 ### Information about airports and local shuttles
