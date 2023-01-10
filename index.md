@@ -1,4 +1,4 @@
-The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, representation theory and higher structures_ will take place from March 13th to March 24th 2023 in Puerto Madryn, Argentina, at the campus of [Universidad Nacional de la Patagonia _San Juan Bosco_](http://www.unp.edu.ar). 
+The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, representation theory and higher structures_ will take place from March 13th to March 24th 2023 in Puerto Madryn, Argentina, at the campus of [Universidad Nacional de la Patagonia _San Juan Bosco_](https://madryn.unp.edu.ar/). 
 
 ### News
 
