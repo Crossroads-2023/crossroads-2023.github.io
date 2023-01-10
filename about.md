@@ -1,6 +1,6 @@
 ### Where will the event take place?
 
-The even will take place in Puerto Madryn, Argentina, at the campus of 
+The event will take place in Puerto Madryn, Argentina, at the campus of 
 [Universidad Nacional de la Patagonia _San Juan Bosco_](https://madryn.unp.edu.ar/), 
 located at [Bv. Almte Brown 3051, U9120 Puerto Madryn, Chubut, Argentina](https://goo.gl/maps/cyTsYQmtWefDwCAB8).
 
