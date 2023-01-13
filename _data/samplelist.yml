@@ -31,8 +31,8 @@ docs:
   - title: L. Vendramin
     url: vendramin.html   
   
-- title: Registration
-  url: register.html
+- title: Poster session
+  url: postersession.html
 
 - title: Committees
   url: organization.html
@@ -43,8 +43,8 @@ docs:
 - title: Information
   url: about.html
 
-- title: Contact
-  url: contact.html
+- title: Code of conduct
+  url: coc.html
 
 - title: ES 
 # <img src="ar.svg" alt="Página en español">
