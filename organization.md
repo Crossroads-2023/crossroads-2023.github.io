@@ -9,6 +9,15 @@
 - [Sonia Trepode](https://sites.google.com/view/sonia-trepode/home) (Universidad Nacional de Mar del Plata)
 - [Pablo Zadunaisky](http://mate.dm.uba.ar/~pzadub/) (Universidad de Buenos Aires)
 
+### Local Organizing Committee at UNP-SJB
+
+- Elsa Fernández 
+- Mariano Ferrari
+- Paola Bonfili
+- Carolina Fuentes
+- Francisco Páez
+- María Nelida Etcheverrito
+
 ### Scientific Committee
 
 - [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/) (University of Paris)
