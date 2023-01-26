@@ -3,7 +3,7 @@ _Representation theory and categorification._ In the past ten years some spectac
 
 ### Reading material for the course ###
 
-1. [_Introsurvey to Representation Theory._](libedinsky/introsurvey.pdf)
+1. [_Introsurvey of Representation Theory._](libedinsky/introsurvey-of-rep-theory.pdf)
 
 2. [_Gentle introduction to Soergel bimodules, Part I: the basics._](libedinsky/Gentle.pdf)
 
