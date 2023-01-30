@@ -1,6 +1,6 @@
 ### Poster session
 
-A poster session is planned to take place at the end of the
+A poster session is planned to take place  during the
 _first week_ of the school. More information to follow!
 
 ### Contact us
