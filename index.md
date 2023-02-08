@@ -7,7 +7,7 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 Unfortunately, speakers Victoria Lebed and Sarah Scherotzke had to cancel their 
 participation. 
 
-_More information coming soon!_.
+_More information coming soon!_
 
 ### Poster
 
