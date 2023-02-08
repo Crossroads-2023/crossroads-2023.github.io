@@ -28,6 +28,24 @@
     </div>
 </div>
 
+<h4>A challenge to intuition</h4>
+<div class="speaker">
+    <div class="photo">
+        <a href="carena.html"><img src="images/carena_photo.jpg"/></a>
+    </div>
+    <div class="bio">    
+        <p>
+            <a href="https://sites.google.com/view/marilina-carena">Marilina Carena</a> is an
+            associate professor at the School of Chemical Engineering of the Universidad Nacional del Litoral, in Santa Fé, Argentina, and an Independent Researcher of CONICET. Her research areas are mathematical analysis and geometric measure theory.  She actively participates in outreach activities and is the author of the book <a href="https://www.unl.edu.ar/editorial/index.php?act=showPublicacion&id=8155">La pelota siempre al 10</a>, in which high school mathematical concepts are explored and worked on through problems related to football.
+            </p>   
+        <p>  
+            <a href="carena.html">View mini-course details.</a>
+        </p>   
+    </div>
+</div>
+
+
+
 <h4>Configurations spaces, algebraic topology and operads</h4>
 <div class="speaker">
     <div class="photo">
@@ -59,20 +77,6 @@
     </div>
 </div>
 
-<h4>Origamics: the Mathematics of Origami</h4>
-<div class="speaker">
-    <div class="photo">
-        <a href="lebed.html"><img src="images/lebed_photo.png"/></a>
-    </div>
-    <div class="bio">    
-        <p>
-            <a href="https://www.maths.tcd.ie/~lebed/">Victoria Lebed</a>  finished her PhD in 2012 at Paris City University (formerly Paris 7). After postdocs at Osaka City University, University of Nantes, and Trinity College Dublin, she settled down at the University of Caen Normandy. Her interests revolve around the vast notions of §ucture and braiding, in particular their algebraic, homological, topological, and categorical aspects. This includes the Yang–Baxter equation, braid groups, knots and their generalisations, self-distributivity, shuffle algebras, Hopf algebras. She believes that most of mathematics can (and should!) be drawn. She is actively engaged in outreach activities. <em>Photo by the <a href="https://opc.mfo.de/detail?photo_id=23653">Oberwolfach Photo Collection</a></em>.
-        </p>   
-        <p>  
-            <a href="lebed.html">View mini-course details.</a>
-        </p>   
-    </div>
-</div>
 
 <h4>Representation theory and categorification</h4>
 <div class="speaker">
@@ -89,21 +93,6 @@
     </div>
 </div>
 
-<h4>Cotangent complexes of moduli spaces and Ginzburg dg algebras</h4>
-<div class="speaker">
-    <div class="photo">
-        <a href="scherotzke.html"><img src="images/scherotzke_photo.png"/></a>
-    </div>
-    <div class="bio">    
-        <p>
-            <a href="https://wwwde.uni.lu/research/fstm/dmath/people/sarah_scherotzke">Sarah Scherotzke</a>
-            did her PhD at the University of Oxford in 2009. After postdoctoral positions in Paris and Bonn, she became professor at the University of Münster and is now professor at the University of Luxembourg. During her PhD, she worked on various topics in representation theory, during her postdoc on cluster theory and she is now working in the field of derived algebraic geometry. Derived geometry gives us a way to keep doing geometry when things go wrong for instance in non-transversal settings. It is a beautiful and quickly developing area of maths, with connections to lots of other fields of mathematics. In her free time, Sarah likes to hike, swim and dance. 
-        </p>   
-        <p>  
-            <a href="scherotzke.html">View mini-course details.</a>
-        </p>   
-    </div>
-</div>
 
 <h4>Computational algebra: groups, rings and combinatorics</h4>
 <div class="speaker">

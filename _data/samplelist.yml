@@ -13,20 +13,17 @@ docs:
   - title: K. Baur
     url: baur.html   
 
+  - title: M. Carena
+    url: carena.html  
+
   - title: N. Idrissi
     url: idrissi.html  
 
   - title: D. Jordan
     url: jordan.html  
 
-  - title: V. Lebed
-    url: lebed.html   
-
   - title: N. Libedinsky
     url: libedinsky.html 
-
-  - title: S. Scherotzke
-    url: scherotzke.html
 
   - title: L. Vendramin
     url: vendramin.html   
@@ -47,5 +44,4 @@ docs:
   url: coc.html
 
 - title: ES 
-# <img src="ar.svg" alt="Página en español">
   url: https://crossroads-2023-es.github.io/

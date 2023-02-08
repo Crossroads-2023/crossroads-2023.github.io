@@ -2,7 +2,12 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### News
 
-Registration is closed as of _November 30th_. 
+[Marilina Carena](https://sites.google.com/view/marilina-carena)
+(Universidad Nacional del Litoral) will be giving an outreach talk during the School. 
+Unfortunately, speakers Victoria Lebed and Sarah Scherotzke had to cancel their 
+participation. 
+
+_More information coming soon!_.
 
 ### Poster
 
