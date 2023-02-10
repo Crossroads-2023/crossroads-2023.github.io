@@ -4,6 +4,8 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 The schedule of the school is now available!
 
+[Ana García Elsener](https://sites.google.com/view/ana-garcia-elsener) (Universidad Nacional de Mar del Plata) and [Gastón García](https://www.mate.unlp.edu.ar/~ggarcia/) (Universidad Nacional de La Plata) will give short research talks during the school.
+
 [Marilina Carena](https://sites.google.com/view/marilina-carena)
 (Universidad Nacional del Litoral) will be giving an outreach talk during the School. 
 Unfortunately, speakers Victoria Lebed and Sarah Scherotzke had to cancel their 
