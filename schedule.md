@@ -1,3 +1,4 @@
 ### Schedule
 
-To be determined. Further information on the courses will be available soon.
+You can view the school schedule [here](schedule-crossroads-2023.pdf). 
+
