@@ -2,7 +2,7 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### News
 
-1. The notes for the course of David Jordan are now available.  The course will cover material from _Chapters 1_ through _Chapter 6_ of [this](jordan/jordan-notes.pdf) book. The topics covered in _Chapter 1_ (Lie algebra representations of $\mathfrak{sl}(2,\mathbb C)$ a are __prerequisite__ for the course. Make sure to take a look beforehand!
+1. The notes for the course of David Jordan are now available.  The course will cover material from _Chapters 2_ through _Chapter 6_ of [this](jordan/jordan-notes.pdf) book. The topics covered in _Chapter 1_ (Lie algebra representations of $\mathfrak{sl}(2,\mathbb C)$ a are __prerequisite__ for the course. Make sure to take a look beforehand!
 
 2. The schedule of the school is now available!
 
