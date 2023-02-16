@@ -1,64 +1,66 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: " en-US" }}">
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+</script>
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css' | relative_url }}">
- 
-{% seo %}
-    {% include head-custom.html %}
-  </head>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,maximum-scale=2">
+  <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css' | relative_url }}">
 
-  <body>
+  {% seo %}
+  {% include head-custom.html %}
+</head>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+<body>
+
+  <!-- HEADER -->
+  <div id="header_wrap" class="outer">
+    <header class="inner">
+      {% if site.github.is_project_page %}
+      <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+      {% endif %}
+
+      <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <ul id="navbar" class="navigation">
+        {% for item in site.data.samplelist.docs %}
+        <li>
+          {% if item.url %}
+          <a href="{{ item.url }}">{{ item.title }}</a>
+          {% else %}
+          <div>{{ item.title }}</div>
           {% endif %}
-
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-          <ul id="navbar" class="navigation">
-            {% for item in site.data.samplelist.docs %}
-              <li>
-                {% if item.url %}
-                  <a href="{{ item.url }}">{{ item.title }}</a>
-                {% else %}
-                  <div>{{ item.title }}</div>
-                {% endif %}
-                {% if item.docs %}
-                  <ul class="subnavigation">
-                    {% for subitem in item.docs %} 
-                      <li>
-                        <a href="{{ subitem.url }}">{{ subitem.title }}</a>
-                      </li>
-                    {% endfor %}
-                  </ul>
-                {% endif %}
-              </li>
+          {% if item.docs %}
+          <ul class="subnavigation">
+            {% for subitem in item.docs %}
+            <li>
+              <a href="{{ subitem.url }}">{{ subitem.title }}</a>
+            </li>
             {% endfor %}
-         </ul>
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download as a tar.gz file</a>
-            </section>
+          </ul>
           {% endif %}
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        {{ content }}
+        </li>
+        {% endfor %}
+      </ul>
+      {% if site.show_downloads %}
+      <section id="downloads">
+        <a class="zip_download_link" href="{{ site.github.zip_url }}">Download as a .zip file</a>
+        <a class="tar_download_link" href="{{ site.github.tar_url }}">Download as a tar.gz file</a>
       </section>
-    </div>
+      {% endif %}
+    </header>
+  </div>
 
-    <!-- FOOTER  
+  <!-- MAIN CONTENT -->
+  <div id="main_content_wrap" class="outer">
+    <section id="main_content" class="inner">
+      {{ content }}
+    </section>
+  </div>
+
+  <!-- FOOTER  
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         {% if site.github.is_project_page %}
@@ -67,5 +69,6 @@
 		<p>Last modified 13.03.22</p>
        </footer>
     </div> -->
-  </body>
+</body>
+
 </html>
