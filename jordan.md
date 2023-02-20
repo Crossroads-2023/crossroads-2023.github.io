@@ -8,6 +8,10 @@ _Juan Guzmán_ will be the assistant to David Jordan for this course's tutorials
 
 Juan received his PhD in Mathematics in December 2022 from the [FaMAF](https://www.famaf.unc.edu.ar/) (Universidad Nacional de Córdoba), where he also completed his undergraduate studies: Licenciatura and Profesorado in Mathematics. His interests include vertex algebras and conformal Lie algebras, as well as chiral and factorization algebras.
 
+<p align="center"> 
+<img src="images/guzman_photo.jpg" alt="Juan Gabriel Guzman" width="200"/>
+</p> 
+
 ### Reading material for the course ###
 
 
