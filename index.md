@@ -32,3 +32,4 @@ We gratefully acknowledge support from the following sponsors. We are supported 
 [<img src="images/conicet.png" width="100" height="57">](https://www.conicet.gov.ar/conicet-descripcion/) 
 [<img src="images/IMU-CDC.png" width="100" height="100">](https://www.mathunion.org/cdc)
 [<img src="images/NSF.svg" width="100" height="100">](https://www.nsf.gov/)
+[<img src="images/logo-aluar.svg" width="100" height="100">](https://www.aluar.com.ar/)
