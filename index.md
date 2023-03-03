@@ -2,7 +2,14 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### News
 
-1. The notes for the course of David Jordan are now available.  The course will cover material from _Chapters 2_ through _Chapter 6_ of [this](jordan/jordan-notes.pdf) book. The topics covered in _Chapter 1_ (Lie algebra representations of $\mathfrak{sl}(2,\mathbb C)$) are __prerequisite__ for the course. Make sure to take a look beforehand!
+1. Local transportation: we recommend that you use the app _moovit_ to obtain information about local public transport. See [here](https://moovitapp.com/puerto_madryn-6141/poi/3051%20Bv.%20Almirante%20Brown/Hotel%20Bah%C3%ADa%20Nueva/es-419?ref=5&customerId=4908&fll=-42.76449_-65.034777&tll=-42.785873_-65.005766&t=1) for routes from _Hotel Bahía Nueva_ to the university campus, or scan the following QR code (opens in _moovit_ app):
+
+<p align="center"> 
+<img src="images/bahia-to-campus-QR.png" alt="moovit-QR-code" width="200"/>
+</p> 
+
+
+1. The notes for the course of David Jordan are now available.  The course will cover material from _Chapter 2_ through _Chapter 6_ of [this](jordan/jordan-notes.pdf) book. The topics covered in _Chapter 1_ (Lie algebra representations of $\mathfrak{sl}(2,\mathbb C)$) are __prerequisite__ for the course. Make sure to take a look beforehand!
 
 2. The schedule of the school is now available!
 
