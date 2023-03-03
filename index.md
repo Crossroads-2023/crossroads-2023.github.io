@@ -9,13 +9,13 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 </p> 
 
 
-1. The notes for the course of David Jordan are now available.  The course will cover material from _Chapter 2_ through _Chapter 6_ of [this](jordan/jordan-notes.pdf) book. The topics covered in _Chapter 1_ (Lie algebra representations of $\mathfrak{sl}(2,\mathbb C)$) are __prerequisite__ for the course. Make sure to take a look beforehand!
+2. The notes for the course of David Jordan are now available.  The course will cover material from _Chapter 2_ through _Chapter 6_ of [this](jordan/jordan-notes.pdf) book. The topics covered in _Chapter 1_ (Lie algebra representations of $\mathfrak{sl}(2,\mathbb C)$) are __prerequisite__ for the course. Make sure to take a look beforehand!
 
-2. The schedule of the school is now available!
+3. The schedule of the school is now available!
 
-3. [Ana García Elsener](https://sites.google.com/view/ana-garcia-elsener) (Universidad Nacional de Mar del Plata) and [Gastón García](https://www.mate.unlp.edu.ar/~ggarcia/) (Universidad Nacional de La Plata) will give short research talks during the school.
+4. [Ana García Elsener](https://sites.google.com/view/ana-garcia-elsener) (Universidad Nacional de Mar del Plata) and [Gastón García](https://www.mate.unlp.edu.ar/~ggarcia/) (Universidad Nacional de La Plata) will give short research talks during the school.
 
-4. [Marilina Carena](https://sites.google.com/view/marilina-carena)
+5. [Marilina Carena](https://sites.google.com/view/marilina-carena)
 (Universidad Nacional del Litoral) will be giving an outreach talk during the School. 
 Unfortunately, speakers Victoria Lebed and Sarah Scherotzke had to cancel their 
 participation. 
