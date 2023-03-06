@@ -14,5 +14,4 @@ Juan received his PhD in Mathematics in December 2022 from the [FaMAF](https://w
 
 ### Reading material for the course ###
 
-
 1. [_Introduction to geometric representation theory_](jordan/jordan-notes.pdf). The course will cover material from _Chapters 2_ through _Chapter 6_. The topics covered in _Chapter 1_ (Lie algebra representations of $\mathfrak{sl}(2,\mathbb C)$) a are __prerequisite__ for the course.

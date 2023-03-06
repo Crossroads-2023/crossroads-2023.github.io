@@ -11,6 +11,6 @@ there are general instructions available [here](https://www.gap-system.org/Downl
 If you would prefer not to install GAP, you can find an online alternative 
 [here](https://github.com/gap-system/try-gap-in-jupyter).
 
-### Course material ###
+### Reading material for the course ###
 
-1. [_Computer algebra with GAP_.](vendramin/gap.pdf)  K. Piterman. and L. Vendramin. 
+1. [_Computer algebra with GAP_](vendramin/gap.pdf) by K. Piterman. and L. Vendramin. 
