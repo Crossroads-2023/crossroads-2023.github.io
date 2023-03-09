@@ -1,7 +1,6 @@
 ### Poster session
 
-A poster session is planned to take place  during the
-_first week_ of the school. More information to follow!
+The poster session will take place on Wednesday 15th from 16:00 to 18:00 in _Aula 8_. 
 
 ### Contact us
 
