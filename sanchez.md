@@ -1,0 +1,4 @@
+[Mario Sánchez](https://sites.google.com/view/sanchezmario) (Cornell University)
+_Matroids, combinatorics, and geometry._ Matroid theory is a combinatorial theory of independence with its origins in linear algebra and graph theory, which turns out to have important connections with many other branches. In recent years, the geometric roots of matroid theory have deepened, bearing many new fruits. 
+
+The geometric study of matroids has recently led to the development of very interesting mathematics at the intersection between combinatorics, algebra, and geometry, and to the solution of several remarkable open problems. This course will give an introduction to matroid theory, emphasizing the geometric point of view, and pointing to some of its most important recent achievements.

@@ -6,10 +6,7 @@ docs:
 
 - title: Courses
   url: speakers.html
-  docs: 
-  - title: F. Ardila
-    url: ardila.html
-
+  docs:
   - title: K. Baur
     url: baur.html   
 
@@ -24,6 +21,9 @@ docs:
 
   - title: N. Libedinsky
     url: libedinsky.html 
+
+   - title: M. Sánchez
+    url: sanchez.html 
 
   - title: L. Vendramin
     url: vendramin.html   

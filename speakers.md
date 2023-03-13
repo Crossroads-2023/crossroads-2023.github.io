@@ -1,18 +1,3 @@
-<h4>Matroids, combinatorics, and geometry</h4>
-<div class="speaker">
-    <div class="photo">
-        <a href="ardila.html"><img src="images/ardila_photo.png"/></a>
-    </div>
-    <div class="bio">    
-        <p>
-            <a href="http://math.sfsu.edu/federico/">Federico Ardila</a> is a Colombian mathematician and musician interested in the intersection between combinatorics, geometry, and algebra. He received his PhD from MIT and is a professor at San Francisco State University and Universidad de Los Andes. He is a Guest Lecturer at the International Congress of Mathematicians 2022, a Fellow of the American Math Society, and a recipient of the Math Association of America's Teaching Award. He has directed the graduate theses of more than 50 students and co-directs MSRI-UP, a research program for ethnic minority students in the United States. In all aspects of his work, Federico seeks to contribute to building an increasingly inclusive and equitable mathematical community. <em>Photo by May-Li Khoe.</em>
-        </p>   
-        <p>  
-            <a href="ardila.html">View mini-course details.</a>
-        </p>   
-    </div>
-</div>
-
 <h4>Cluster algebras and cluster categories via surfaces</h4>
 <div class="speaker">
     <div class="photo">
@@ -93,6 +78,21 @@
     </div>
 </div>
 
+<h4>Matroids, combinatorics, and geometry</h4>
+<div class="speaker">
+    <div class="photo">
+        <a href="sanchez.html"><img src="images/sanchez_photo.jpg"/></a>
+    </div>
+    <div class="bio">    
+        <p>
+            <a href="https://sites.google.com/view/sanchezmario">Mario Sánchez</a>
+            is a National Science Foundation Postdoctoral Fellow at Cornell University. He obtained his Ph.D from the University of California, Berkeley in 2021. His research interests lie in the intersection of combinatorics with fields in algebra such as representation theory, algebraic geometry, and Lie theory. He loves the permutahedron and any math related to it.
+        </p>   
+        <p>  
+            <a href="sanchez.html">View mini-course details.</a>
+        </p>   
+    </div>
+</div>
 
 <h4>Computational algebra: groups, rings and combinatorics</h4>
 <div class="speaker">
