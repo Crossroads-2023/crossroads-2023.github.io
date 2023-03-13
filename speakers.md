@@ -101,7 +101,10 @@
     </div>
     <div class="bio">    
         <p>
-            <a href="https://vendramin.github.io/">Leandro Vendramin</a> obtained his Ph.D. in 2010 from Universidad de Buenos Aires. Vendramin's research interests are related to non-commutative algebra. He obtained an Alexander von Humboldt Fellowship and worked as a postdoctoral fellow in the University of Edinburgh.
+            <a href="https://vendramin.github.io/">Leandro Vendramin</a> obtained his Ph.D. in 
+            2010 from Universidad de Buenos Aires. Vendramin's research interests are related to 
+            non-commutative algebra. He obtained an Alexander von Humboldt Fellowship and worked 
+            as a postdoctoral fellow in the University of Edinburgh.
         </p>   
         <p>  
             <a href="vendramin.html">View mini-course details.</a>
