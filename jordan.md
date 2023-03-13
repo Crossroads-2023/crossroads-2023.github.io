@@ -19,4 +19,4 @@ Juan received his PhD in Mathematics in December 2022 from the [FaMAF](https://w
 
 ### Exercises ###
 
-You can find the exercises [here](jordan/exercises.pdf).
+You can find the exercises [here](jordan/jordan-exercises.pdf).
