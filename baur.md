@@ -11,6 +11,7 @@ Juan is a Ph.D  student based in the _Universidad Nacional de Mar del Plata_ und
 <img src="images/maldonado_photo.jpeg" alt="Juan Pablo Maldonado" width="200"/>
 </p> 
 
-### Reading material for the course ###
+### Reading material and exercises for the course ###
 
 1. [_Grassmannians and cluster structures_.](baur/baur-lecture-notes.pdf)
+2. [_Exercises_](baur/baur-exercises.pdf).
