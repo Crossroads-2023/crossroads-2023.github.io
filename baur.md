@@ -3,7 +3,7 @@ _Cluster algebras and cluster categories via surfaces._ Twenty years of research
 
 ### Assistants ###
 
-_Juan Pablo Maldonado_ will be the assistant to Kairin Baur for this course's tutorials.
+_Juan Pablo Maldonado_ will be the assistant to Karin Baur for this course's tutorials.
 
 Juan is a Ph.D  student based in the _Universidad Nacional de Mar del Plata_ under the advisory of Karin Baur (University of Leeds) and Ana García Elsener (Universidad Nacional de Mar del Plata). His research interest are combinatorics, cluster algebras, dimer models and Jacobian algebras, among others.
 
