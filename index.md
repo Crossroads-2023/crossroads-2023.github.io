@@ -2,6 +2,8 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### News
 
+1. The group photos are available [here](images/group-photo-2.JPG) and [here](images/group-photo-1.JPG)!
+
 1. The outreach talk of [Marilina Carena](https://sites.google.com/view/marilina-carena)
 (Universidad Nacional del Litoral) will take place at 18:00 on Wednesday 22nd at the _Aula Magna_ of the university. 
 
@@ -16,7 +18,6 @@ _More information coming soon!_
 ### Poster
 
 You can download (and print) a high quality version of the school's poster at [this link](CIMPA23poster.pdf).
-
 
 ### Sponsors
 
