@@ -9,4 +9,4 @@ More detailed information can be found in the [speaker's website](https://idriss
 
 (1) Fresse, Benoit. _Homotopy of Operads and Grothendieck–Teichmüller Groups Part 1: The Algebraic Theory and its Topological Background_. Mathematical Surveys and Monographs Volume 217, AMS. (Parts Ia y Ib).
 
-(2) Idrissi, Najib. _Real Homotopy of Configuration Spaces_, Peccot Lecture, Collège de France, March and May 2020. Lecture Notes in Mathematics __2303__. Springer.
+(2) Idrissi, Najib. [_Real Homotopy of Configuration Spaces_](https://hal.science/hal-03821309v1/document), Peccot Lecture, Collège de France, March and May 2020. _Springer International Publishing_, __2303__, 2022, _Lecture Notes in Mathematics_, `10.1007/978-3-031-04428-1`.
