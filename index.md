@@ -2,16 +2,16 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### News
 
+1. You can find the slides for Ana García Elsener's talk [here](slides-cimpa-age.pdf).
+
 1. The group photos are available [here](images/group-photo-2.JPG) and [here](images/group-photo-1.JPG)!
+
 
 1. The outreach talk of [Marilina Carena](https://sites.google.com/view/marilina-carena)
 (Universidad Nacional del Litoral) will take place at 18:00 on Wednesday 22nd at the _Aula Magna_ of the university. 
 
 1. [Mario Sánchez](https://sites.google.com/view/sanchezmario) will give a course during the second week of the school. Unfortunately, Federico Ardila had to cancel his participation 
 in the school.
-
-2. [Ana García Elsener](https://sites.google.com/view/ana-garcia-elsener) (Universidad Nacional de Mar del Plata) and [Gastón García](https://www.mate.unlp.edu.ar/~ggarcia/) (Universidad Nacional de La Plata) will give short research talks during the school. You can find the title
-and abstract for Ana García Elsener's talk [here](elsener.md). 
 
 _More information coming soon!_
 
