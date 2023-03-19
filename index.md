@@ -2,7 +2,8 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### News
 
-1. You can find the slides for Ana García Elsener's talk [here](slides-cimpa-age.pdf).
+1. You can find the slides for Ana García Elsener's talk [here](slides-cimpa-age.pdf), and the 
+slide for Gastón García's talk [here](slides-cimpa-gg.pdf).
 
 1. The group photos are available [here](images/group-photo-2.JPG) and [here](images/group-photo-1.JPG)!
 
