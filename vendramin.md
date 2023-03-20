@@ -14,3 +14,7 @@ If you would prefer not to install GAP, you can find an online alternative
 ### Reading material for the course ###
 
 1. [_Computer algebra with GAP_](vendramin/gap.pdf) by K. Piterman. and L. Vendramin. 
+
+### Slides
+
+1. [First lecture](vendramin/lecture1.pdf.)
