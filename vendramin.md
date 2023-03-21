@@ -20,3 +20,8 @@ If you would prefer not to install GAP, you can find an online alternative
 1. [First lecture](vendramin/lecture1.pdf).
 2. [Second lecture](vendramin/lecture2.pdf).
 3. [Third lecture](vendramin/lecture3.pdf).
+
+### Tutorial 
+
+1. The file with the _FRACTRAN_ program _PRIMEGAME_ is [here](vendramin/fractran.g).
+2. The file generating the _Look and Say_ sequence is [here](vendramin/lookandsay.g).
