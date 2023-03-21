@@ -17,4 +17,4 @@ If you would prefer not to install GAP, you can find an online alternative
 
 ### Slides
 
-1. [First lecture](vendramin/lecture1.pdf.)
+1. [First lecture](vendramin/lecture1.pdf).
