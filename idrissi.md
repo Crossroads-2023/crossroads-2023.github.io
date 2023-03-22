@@ -5,6 +5,18 @@ I plan to explain how two classical objects in algebraic topology are related: c
 More detailed information can be found in the [speaker's website](https://idrissi.eu/class/23-cimpa).
 
 
+### Assistants ###
+
+_Victor Roca i Lucio_ will be the assistant to David Jordan for this course's tutorials.
+
+Victor is a postdoc at Ecole Fédérerale Polytechnique de Lausanne (EPFL) in Switzerland. He completed his PhD
+in 2022 at the Université Sorbonne Paris Nord under the supervision of Bruno Vallette. His research interests 
+are algebraic operads, homotopical algebra, rational homotopy, deformation theory and penguins.
+
+<p align="center"> 
+<img src="images/victor_photo.jpg" alt="Victor Roca i Lucio" width="200"/>
+</p> 
+
 ### References ###
 
 (1) Fresse, Benoit. _Homotopy of Operads and Grothendieck–Teichmüller Groups Part 1: The Algebraic Theory and its Topological Background_. Mathematical Surveys and Monographs Volume 217, AMS. (Parts Ia y Ib).
