@@ -2,6 +2,10 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### News
 
+1. There is dinner planned to take place on Wednesday 22nd at 20:30 in [Náutico Bistró de Mar
+](https://goo.gl/maps/HoKwJyHgb9gzjUGw5). If you have not yet written your name down in the list
+outside _Aula 1_, please contact us as the restaurant is close to full capacity. 
+
 1. You can find the slides for Ana García Elsener's talk [here](slides-cimpa-age.pdf), and the 
 slide for Gastón García's talk [here](slides-cimpa-gg.pdf).
 
