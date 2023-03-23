@@ -2,21 +2,11 @@ The [CIMPA School](https://www.cimpa.info/en/node/9) _Crossroads of geometry, re
 
 ### News
 
-1. There is dinner planned to take place on Wednesday 22nd at 20:30 in [Náutico Bistró de Mar
-](https://goo.gl/maps/HoKwJyHgb9gzjUGw5). If you have not yet written your name down in the list
-outside _Aula 1_, please contact us as the restaurant is close to full capacity. 
-
 1. You can find the slides for Ana García Elsener's talk [here](slides-cimpa-age.pdf), and the 
 slide for Gastón García's talk [here](slides-cimpa-gg.pdf).
 
 1. The group photos are available [here](images/group-photo-2.JPG) and [here](images/group-photo-1.JPG)!
 
-
-1. The outreach talk of [Marilina Carena](https://sites.google.com/view/marilina-carena)
-(Universidad Nacional del Litoral) will take place at 18:00 on Wednesday 22nd at the _Aula Magna_ of the university. 
-
-1. [Mario Sánchez](https://sites.google.com/view/sanchezmario) will give a course during the second week of the school. Unfortunately, Federico Ardila had to cancel his participation 
-in the school.
 
 _More information coming soon!_
 
