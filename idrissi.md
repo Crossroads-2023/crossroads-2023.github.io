@@ -7,7 +7,7 @@ More detailed information can be found in the [speaker's website](https://idriss
 
 ### Assistants ###
 
-_Victor Roca i Lucio_ will be the assistant to Najib Idrissi for this course's tutorials.
+_Victor Roca i Lucio_ was the assistant to Najib Idrissi for this course's tutorials.
 
 Victor is a postdoc at Ecole Fédérerale Polytechnique de Lausanne (EPFL) in Switzerland. He completed his PhD
 in 2022 at the Université Sorbonne Paris Nord under the supervision of Bruno Vallette. His research interests 

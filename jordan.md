@@ -4,7 +4,7 @@ One of the most important developments in representation theory of algebraic gro
 
 ### Assistants ###
 
-_Juan Guzmán_ will be the assistant to David Jordan for this course's tutorials.
+_Juan Guzmán_ was the assistant to David Jordan for this course's tutorials.
 
 Juan received his PhD in Mathematics in December 2022 from the [FaMAF](https://www.famaf.unc.edu.ar/) (Universidad Nacional de Córdoba), where he also completed his undergraduate studies: Licenciatura and Profesorado in Mathematics. His interests include vertex algebras and conformal Lie algebras, as well as chiral and factorization algebras.
 
