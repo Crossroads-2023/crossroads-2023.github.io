@@ -2,6 +2,17 @@
 _Computational algebra: groups, rings and combinatorics_. We present the computer algebra system GAP and use it to solve some research-level problems in algebra and combinatorics. The topics to investigate are groups, certain finite rings and some combinatorial structures associated with the Yang-Baxter equation (with applications in knot theory).  GAP is a system for computational discrete algebra with emphasis on computational group theory. 
 
 
+### Assistants ###
+
+[_Arne van Antwerpen_](https://vanantwerpen.github.io/) was the assistant to Leandro Vendramin for this course's tutorials.
+
+Arne is a postdoc at Vrije Universiteit  Brussel (VUB) in Brussels, Belgium. He completed his PhD in 2020 at Vrije Universiteit Brussel under the supervision of Eric Jespers. His research interests include set-theoretic solutions of the Yang-Baxter equation, skew braces, finite group theory and finiteness conditions in ring theory.
+
+<p align="center"> 
+<img src="images/arne_photo.jpg" alt="Arne van Antwerpen" width="200"/>
+</p> 
+
+
 ### Installing GAP ###
 
 We strongly recommend that all participants have either SAGE or GAP installed _before_ 
